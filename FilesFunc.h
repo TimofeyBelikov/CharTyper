@@ -1,8 +1,10 @@
-#ifndef FILESFUNC_H
-#define FILESFUNC_H
+#pragma once
 #include <iostream>
 
-std::string setHomeDir(char*);	//функция настройки домашней директории
+bool setTextFolder(std::string fullPath);
 
+std::string setHomeDir(char* argv);
 
-#endif
+void saveText(std::string& text, std::string path);
+
+bool remove_line(const char* filename, size_t index);
