@@ -7,7 +7,7 @@
 
 <p align="left">+ Добавление Своего текста для обучения скоростной печатью на нём.</p>
 
-<img src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/ADDtxt.gif" alt="pic" />
+<img align="center" src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/ADDtxt-curved.gif" alt="pic"/>
 
 <p align="left">+ Импорт имеющихся текстов</p>
 
