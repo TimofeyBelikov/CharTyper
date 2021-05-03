@@ -53,9 +53,14 @@
 <p>Для навигации в главном меню используйте стрелки вверх, вниз.</p>
 <p>Для выбора элемента меню используйте кнопку Enter.</p>
 <p>Для удаления текста используйте кнопку Delete.</p>
-    <p align="center">
-        <img src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/MainMenu-scaled.gif" alt="pic" max-width: 50% />
-    </p>
+
+<details>
+      <summary>Просмотр</summary>
+            <p align="center" width="100px">
+             <img src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/MainMenu-scaled.gif" alt="pic"/>
+            </p>
+    </details>
+         
     
 
 
