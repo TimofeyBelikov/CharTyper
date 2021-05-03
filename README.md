@@ -6,9 +6,9 @@
 <h2 align="center">Возможности</h2>
 
 <p align="left">+ Добавление Своего текста для обучения скоростной печатью на нём.</p>
-
-<img align="center" src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/ADDtxt-curved.gif" alt="pic"/>
-
+<p align="center">
+    <img src="https://github.com/TimofeyBelikov/media/raw/main/CharTyperr/ADDtxt-curved.gif" alt="pic"/>
+</p>
 <p align="left">+ Импорт имеющихся текстов</p>
 
 <p align="left">+ Совершенстование своих возможностей каждый день </p>
